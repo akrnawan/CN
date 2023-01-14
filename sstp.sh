@@ -23,7 +23,7 @@ echo -e "${NC}${LIGHT}Fuck You!!"
 exit 0
 fi
 # Link Hosting Kalian
-akbarvpn="raw.githubusercontent.com/akrnawan/CN"
+akbarvpn="raw.githubusercontent.com/akrnawan/CN/main/"
 
 MYIP=$(wget -qO- ipinfo.io/ip);
 MYIP2="s/xxxxxxxxx/$MYIP/g";
